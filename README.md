@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src="./demo.gif" width="30%" height="30%"/>
 
 ## App Brainstorming (Step 4)
 
